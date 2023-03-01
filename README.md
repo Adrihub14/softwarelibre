@@ -23,17 +23,17 @@ Este tipo de licencias, por lo general, no permiten que el software sea modifica
 
 * Licencia de software de código abierto permisivas
   Se puede crear una obra derivada sin que esta tenga obligación de protección alguna. 
-  .  Academic Free License v.1.2.
-  .  Apache Software License v.1.1
-  .  Artistic License v.2.0
-  .  Attribution Assurance license.
-  .  BSD License.
-  .  MIT License.
-  .  University of Illinois/NCSA Open Source License.
-  .  W3C Software Notice and License.
-  .  Zope Public License v.2.0
-  .  Open LDAP License v.2.7
-  .  Perl License.
-  .  Academic Free License v.3.0
-  .  PHP License v.3.0
-  .  VMS License.
+  1. Academic Free License v.1.2.
+  2.  Apache Software License v.1.1
+  3.  Artistic License v.2.0
+  4.  Attribution Assurance license.
+  5.  BSD License.
+  6.  MIT License.
+  7.  University of Illinois/NCSA Open Source License.
+  8.  W3C Software Notice and License.
+  9.  Zope Public License v.2.0
+  10.  Open LDAP License v.2.7
+  11.  Perl License.
+  12.  Academic Free License v.3.0
+  13.  PHP License v.3.0
+  14.  VMS License.
